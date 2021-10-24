@@ -19,7 +19,7 @@ const Hero = () => {
               Whatever ups and downs you may have encountered this year, the
               eCommerce market is still expanding bigger and brighter as ever.
               As we approach a new year, we’re here to give you an exclusive
-              sneak peek of the ECommerce growth trends in 2022 and beyond.
+              sneak peek of the eCommerce growth trends in 2022 and beyond.
             </h2>
           </div>
           <div className="flex justify-center md:justify-start z-50 items-center">
@@ -58,9 +58,9 @@ const Hero = () => {
         <p className="text-3xl font-bold tracking-tight text-center text-gray-800 sm:text-3xl sm:leading-none">
           Better experience, make&nbsp;
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
-            smarter business decisions&nbsp;
+            smarter business&nbsp;
           </span>
-          and discovery top trending anywhere.
+          decisions and discovery top trending anywhere.
         </p>
       </div>
     </>
