@@ -1,3 +1,4 @@
+import Footer from "./Footer";
 import Nav from "./Nav";
 
 const Layout = ({ children }) => {
@@ -5,6 +6,7 @@ const Layout = ({ children }) => {
     <div className="flex flex-col justify-between min-h-screen">
       <Nav />
       <main>{children}</main>
+      <Footer />
     </div>
   );
 };

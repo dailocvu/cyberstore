@@ -16,13 +16,18 @@ const Nav = () => {
     <header className="border-b sticky top-0 z-20 bg-white">
       <div className="flex items-center justify-between max-w-6xl pt-4 pb-2 px-4 mx-auto lg:max-w-screen-xl">
         <Link href="/" passHref>
-          <a className="text-lg pt-1 font-bold">ECommerce</a>
+          <a className="text-xl pt-1 font-bold">
+            <span className="inline-block text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
+              Cyber
+            </span>
+            store
+          </a>
         </Link>
         <a
           onClick={() => {
             setCartOpen(!cartOpen);
           }}
-          className="text-md font-bold cursor-pointer"
+          className="text-lg font-bold cursor-pointer"
         >
           Cart ({cartQuantity})
         </a>
