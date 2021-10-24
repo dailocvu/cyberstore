@@ -1,12 +1,14 @@
-import Head from "next/head";
+
+import Hero from "../components/Hero";
 import ProductList from "../components/ProductList";
 import { getProductsInCollection } from "../lib/shopify";
 
 export default function Home({ products }) {
   return (
-    <div className="text-3xl text-blue-600">
+    <>
+      <Hero />
       <ProductList products={products} />
-    </div>
+    </>
   );
 }
 

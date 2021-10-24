@@ -19,8 +19,9 @@ export default function Footer() {
           ))}
         </nav>
         <p className="mt-8 text-center text-gray-400">
-          &copy; 2021 Modern ECommerce, All right reserved.
+          &copy; 2021 Cyberstore, All right reserved.
         </p>
+        <p className="mt-8 text-center text-gray-900">Made by kryonics 🖤</p>
       </div>
     </footer>
   );
