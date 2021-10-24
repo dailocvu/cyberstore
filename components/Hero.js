@@ -56,11 +56,11 @@ const Hero = () => {
           shopping experience
         </p>
         <p className="text-3xl font-bold tracking-tight text-center text-gray-800 sm:text-3xl sm:leading-none">
-          Better experience, make&nbsp;
+          Better experience, make smarter business decisions and discovery
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
-            smarter business&nbsp;
+            &nbsp;top trending&nbsp;
           </span>
-          decisions and discovery top trending anywhere.
+          anywhere.
         </p>
       </div>
     </>
