@@ -131,7 +131,10 @@ export default function MiniCart({ cart }) {
                             ))}
                           </ul>
                         ) : (
-                          <div>
+                          <div className="text-center pt-12">
+                            <p className="text-2xl font-bold text-gray-600">
+                              (●'◡'●)
+                            </p>
                             <p>Nothing in your cart!</p>
                           </div>
                         )}

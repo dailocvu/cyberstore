@@ -1,29 +1,24 @@
-# Next.js + Tailwind CSS Example
+# Cyberstore - Modern eCommerce Website
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Extremely shopping experience, an ecommerce project to practice all important concepts of ReactJS, also help me familiar with NextJS include:
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+- ReactJS concepts: props, hooks (useState, useEffect, useContext).
+- NextJS: dynamic routes, layout, fetching, getStaticPaths, getStaticProps, basic SEO.
+- Fetching data from Shopify with GraphQL, Storefront API.
+- Styling with TailwindCSS, HeadlessUI.
+- Smooth scrolling using React-Scroll.
 
-## Preview
+Pages/Funtions:
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+- Homepage (hero, slogan, product list)
+- Product details (variants selection, recommended products)
+- Cart (Add/remove products, cart detail)
+- Checkout (with Shopify payment)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+# Screenshots
 
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+You can visit this website here [Live Demo]('https://cyberstore.kryonics.me').
+<img src='./screenshots/cyberstore1.png'>
+<img src='./screenshots/cyberstore2.png'>
+<img src='./screenshots/cyberstore3.png'>
+<img src='./screenshots/cyberstore4.png'>
