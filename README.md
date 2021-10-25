@@ -17,7 +17,7 @@ Pages/Funtions:
 
 # Screenshots
 
-You can visit this website here [Live Demo](https://cyberstore.kryonics.me)./
+You can visit this website here [Live Demo](https://cyberstore.kryonics.me)
 
 <img src='./screenshots/cyberstore1.png'>
 <img src='./screenshots/cyberstore2.png'>
